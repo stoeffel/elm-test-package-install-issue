@@ -1,6 +1,8 @@
 elm-package install issue in elm-test
 =====================================
 
+:information_desk_person: this is fixed in elm-test 0.18.8-beta7.
+
 To reproduce the issue:
 
 1. clone this repo
