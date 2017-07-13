@@ -1,0 +1,23 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "elm-package install issue in elm-test =====================================",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoeffel/elm-test-package-install-issue.git"
+  },
+  "keywords": [],
+  "author": "schtoeffel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoeffel/elm-test-package-install-issue/issues"
+  },
+  "homepage": "https://github.com/stoeffel/elm-test-package-install-issue#readme"
+}
