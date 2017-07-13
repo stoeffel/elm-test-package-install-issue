@@ -20,3 +20,5 @@ Maybe your elm-stuff/ directory has been corrupted? You can usually fix stuff
 like this by deleting elm-stuff/ and rebuilding your project.
 Compilation failed while attempting to build /Users/stoeffel/elm/tmp/tests/Example.elm
 ```
+
+There is also a script that lets you run this test `./run-test.sh`.
